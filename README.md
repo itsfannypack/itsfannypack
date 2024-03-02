@@ -1,4 +1,4 @@
-### Hello! 🌒🌓🌔🌖🌗🌘
+###  Hello!  I'm Fannypack.  Just getting started on Git, so bear with me during construction.
 
 
 <!--
