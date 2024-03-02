@@ -1,5 +1,7 @@
 ###  Hello!  I'm Fannypack.  Just getting started on Git, so bear with me during construction.
 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 
 <!--
 **itsfannypack/itsfannypack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
