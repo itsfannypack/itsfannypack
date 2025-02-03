@@ -1,4 +1,4 @@
-###  Hello!  I'm Fannypack.  
+  
 
 ![](https://github.com/itsfannypack/itsfannypack/blob/main/1663754310491.gif)
 <!--
